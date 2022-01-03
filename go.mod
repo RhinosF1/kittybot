@@ -1,4 +1,4 @@
-module github.com/ugjka/kittybot
+module github.com/rhinosf1/kittybot
 
 go 1.15
 
