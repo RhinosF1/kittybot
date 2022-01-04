@@ -10,7 +10,7 @@ import (
 	"syscall"
 
 	"github.com/ftrvxmtrx/fd"
-	"github.com/ugjka/ircmsg"
+	"github.com/rhinosf1/ircmsg"
 )
 
 // startUnixListener starts up a unix domain socket listener for reconnects to
