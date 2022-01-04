@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/exec"
 
-	kitty "github.com/ugjka/kittybot"
+	kitty "github.com/rhinosf1/kittybot"
 )
 
 // This trigger will op people in the given list who ask by saying "-opme"
