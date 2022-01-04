@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ugjka/ircmsg"
+	"github.com/rhinosf1/ircmsg"
 	log "gopkg.in/inconshreveable/log15.v2"
 	logext "gopkg.in/inconshreveable/log15.v2/ext"
 
