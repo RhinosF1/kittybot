@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ugjka/ircmsg"
+	"github.com/rhinosf1/ircmsg"
 )
 
 // A trigger to respond to the servers ping pong messages.
