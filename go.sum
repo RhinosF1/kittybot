@@ -12,7 +12,9 @@ github.com/rhinosf1/ircmsg v0.0.5 h1:HptFC6+B8LS6bdx5ZO/zxjQaZJqEWXr+jyll1PY5OnI
 github.com/rhinosf1/ircmsg v0.0.5/go.mod h1:Ug6OayKK8LCX7kLSO3YThdXPKh3syyM+kEdLWVURb0E=
 golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
-golang.org/x/sys v0.0.0-20201022201747-fb209a7c41cd h1:WgqgiQvkiZWz7XLhphjt2GI2GcGCTIZs9jqXMWmH+oc=
-golang.org/x/sys v0.0.0-20201022201747-fb209a7c41cd/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
-gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1 h1:iiHuQZCNgYPmFQxd3BBN/Nc5+dAwzZuq5y40s20oQw0=
-gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1/go.mod h1:aPpfJ7XW+gOuirDoZ8gHhLh3kZ1B08FtV2bbmy7Jv3s=
+golang.org/x/sys v0.5.0 h1:MUK/U/4lj1t1oPg0HfuXDN/Z1wv31ZJ/YcPiGccS4DU=
+golang.org/x/sys v0.5.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/term v0.5.0 h1:n2a8QNdAb0sZNpU9R1ALUXBbY+w51fCQDN+7EdxNBsY=
+golang.org/x/term v0.5.0/go.mod h1:jMB1sMXY+tzblOD4FWmEbocvup2/aLOaQEp7JmGp78k=
+gopkg.in/inconshreveable/log15.v2 v2.16.0 h1:LWHLVX8KbBMkQFSqfno4901Z4Wg8L3B7Cu0n4K/Q7MA=
+gopkg.in/inconshreveable/log15.v2 v2.16.0/go.mod h1:aPpfJ7XW+gOuirDoZ8gHhLh3kZ1B08FtV2bbmy7Jv3s=
