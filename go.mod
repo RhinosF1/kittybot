@@ -8,6 +8,6 @@ require (
 	github.com/inconshreveable/log15 v0.0.0-20200109203555-b30bc20e4fd1 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/rhinosf1/ircmsg v0.0.5
-	golang.org/x/sys v0.0.0-20201022201747-fb209a7c41cd // indirect
-	gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1
+	golang.org/x/term v0.5.0 // indirect
+	gopkg.in/inconshreveable/log15.v2 v2.16.0
 )
